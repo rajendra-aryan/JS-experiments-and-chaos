@@ -15,25 +15,25 @@ const user = {
 
 // console.log(this);
 
-// function chai(){
+// function trap(){
 //     let username = "aryan"
 //     console.log(this.username);
 // }
 
-// chai()
+// trap()
 
-// const chai = function () {
+// const trap = function () {
 //     let username = "aryan"
 //     console.log(this.username);
 // }
 
-const chai =  () => {
+const trap =  () => {
     let username = "aryan"
     console.log(this);
 }
 
 
-// chai()
+// trap()
 
 // const addTwo = (num1, num2) => {
 //     return num1 + num2
